@@ -28,7 +28,7 @@ vectors that can be directly plugged-in to any fRMA chicken microarray analysis,
 
 **Methods** | We used 118 Geo DataSets from Affymetrix Chicken Genome Array platform and
 randomly selected 4 arrays per batch (**Batch number = 118 and Batch size = 4**). This gives us a powerful set of **472** chips from which to compute the frozen parameters.  
-These results have been automatically put into an R package using the frmaTools (version 1.34.0) and made freely here for the benefit of the chicken research community.
+These results have been automatically put into an R package using the frmaTools (version 1.34.0) and made freely available here for the benefit of the chicken research community.
 
 ### Authors and Funding
 This scientific work was developed by Marta Liber, Isabel Duarte, and Raquel P. Andrade.   
