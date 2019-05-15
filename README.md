@@ -20,8 +20,8 @@ An effective method for such normalization is the single-array pre-processing pr
 **Frozen Robust Multiarray Analysis - fRMA** (McCall MN, et al. Biostatistics. 2010). This method uses frozenRMA vectors pre-computed
 from great amounts of available data for the same microarray chip, accounting for the
 aforementioned biases. However, such frozen vectors are only available for some organisms
-(most notably, human, mouse, zebrafish, and fluit-fly among others), but not for *Gallus gallus*,
-hence preventing the proper meta-analysis of chicken transcriptomics datasets.   
+(most notably, human, mouse, zebrafish, and fluit-fly among many others), but not for *Gallus gallus*,
+hence delaying the proper meta-analysis of chicken transcriptomics datasets.   
 
 Here, we present our R package - *affyChickGenomeArrayfrmavecs* - containing the chicken frozen
 vectors that can be directly plugged-in to any fRMA chicken microarray analysis, without having to first generate the required frozen parameters.  
