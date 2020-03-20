@@ -22,6 +22,12 @@ Then install the R package `frozenChicken` directly from GitHub:
 devtools::install_github("iduarte/frozenChicken")
 ```
 
+Then you can load the library named `affyChickGenomeArrayfrmavecs` and use these frozen vectors to normalize chicken microarray data from different experiments:
+
+```R
+library(affyChickGenomeArrayfrmavecs)
+```
+
 **About the platform used:**   
 Name: Affymetrix Chicken Genome Array | GEO platform id: [GPL3213](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL3213).
 
