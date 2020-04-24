@@ -17,11 +17,11 @@ If you do not have the package `devtools` install it first:
 install.packages("devtools")
 ```
 
-Then install the R package `frozenChicken` directly from GitHub:
+Then install the R package `FrozenChicken` directly from GitHub:
 
 ```R
 # Install the package from GitHub
-devtools::install_github("iduarte/frozenChicken")
+devtools::install_github("iduarte/FrozenChicken")
 ```
 
 Then you can load the library named `affyChickGenomeArrayfrmavecs` and use these frozen vectors to normalize chicken microarray data from different experiments:
