@@ -16,7 +16,7 @@ Duarte, Isabel^; Liber, Marta^ & Andrade, Raquel P. *FrozenChicken: Promoting th
 
 ### Installation
 
-If you do not have the package `devtools` install it first:
+If you do not have the package `remotes` install it first:
 
 ```R
 install.packages("remotes")
