@@ -8,20 +8,25 @@ This R package, named *affyChickGenomeArrayfrmavecs*, was automatically created 
 It contains the frozen vectors for commercially available (in situ oligonucleotide) Chicken microarray chips.   
 **About the platform used** | Affymetrix Chicken Genome Array | GEO platform id: [GPL3213](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL3213).
 
+### Citation
+This package contents are explained, together with usage case examples, in the following publication:   
+
+Duarte, Isabel^; Liber, Marta^ & Andrade, Raquel P. *FrozenChicken: Promoting the meta-analysis of chicken microarray data*. 2020. Zenodo. http://doi.org/10.5281/zenodo.3765944. (^Equal contribution)
+
 
 ### Installation
 
 If you do not have the package `devtools` install it first:
 
 ```R
-install.packages("devtools")
+install.packages("remotes")
 ```
 
 Then install the R package `FrozenChicken` directly from GitHub:
 
 ```R
 # Install the package from GitHub
-devtools::install_github("iduarte/FrozenChicken")
+remotes::install_github("iduarte/FrozenChicken")
 ```
 
 Then you can load the library named `affyChickGenomeArrayfrmavecs` and use these frozen vectors to normalize chicken microarray data from different experiments:
