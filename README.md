@@ -58,6 +58,6 @@ randomly selected 4 arrays per batch (**Batch number = 118 and Batch size = 4**)
 These results have been automatically put into an R package using the frmaTools (version 1.34.0) and made freely available here for the benefit of the chicken research community.
 
 ### Authors and Funding
-This scientific work was developed by Marta Liber, Isabel Duarte, and Raquel P. Andrade.   
-This scientific work was funded by FCT, Portugal (grant PTDC/BEX-BID/5410/2014) and Research Center Grant UID/BIM/04773/2013 CBMR 1334.
+This scientific work was developed by Marta Liber, Isabel Duarte, Ramiro Magno, and Raquel P. Andrade.   
+The work was funded by FCT, Portugal (grant PTDC/BEX-BID/5410/2014) and Research Center Grant UID/BIM/04773/2013 CBMR 1334.
 
