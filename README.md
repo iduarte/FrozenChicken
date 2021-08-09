@@ -11,7 +11,9 @@ It contains the frozen vectors for commercially available (in situ oligonucleoti
 ### Citation
 This package contents are explained, together with usage case examples, in the following publication:   
 
-Duarte, Isabel^; Liber, Marta^ & Andrade, Raquel P. *FrozenChicken: Promoting the meta-analysis of chicken microarray data*. 2020. Zenodo. http://doi.org/10.5281/zenodo.3765944. (^Equal contribution)
+Isabel Duarte^, Marta Liber^, Ramiro Magno & Raquel P. Andrade. *FrozenChicken: Promoting the meta-analysis of chicken microarray data*. 2021. BioRxiv. https://doi.org/10.1101/2021.02.25.432894. (^Equal contribution)
+
+The code is also available in zenodo: https://doi.org/10.5281/zenodo.3765944
 
 
 ### Installation
